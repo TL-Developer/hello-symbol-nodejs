@@ -1,0 +1,20 @@
+{
+  "name": "hello-symbol-nodejs",
+  "version": "1.0.0",
+  "description": "Hello symbols with nodejs",
+  "main": "heroes.js",
+  "scripts": {
+    "test": "node heroes.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TL-Developer/hello-symbol-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TL-Developer/hello-symbol-nodejs/issues"
+  },
+  "homepage": "https://github.com/TL-Developer/hello-symbol-nodejs#readme"
+}
